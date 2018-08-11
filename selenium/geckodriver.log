@@ -1,0 +1,122 @@
+1533929230744	geckodriver	INFO	geckodriver 0.21.0
+1533929230749	geckodriver	INFO	Listening on 127.0.0.1:41153
+1533929231757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6IpaVmjztv3O"
+
+(firefox:14884): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533929233012	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:14931): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533929236282	Marionette	INFO	Listening on port 34107
+1533929236374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1533929246721	geckodriver	INFO	geckodriver 0.21.0
+1533929246725	geckodriver	INFO	Listening on 127.0.0.1:45115
+1533929247729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ymqOYfGt6iex"
+
+(firefox:15043): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533929248482	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:15091): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533929251876	Marionette	INFO	Listening on port 38215
+1533929251942	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://www.newtours.demoaut.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://www.newtours.demoaut.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1533930061076	geckodriver	INFO	geckodriver 0.21.0
+1533930061084	geckodriver	INFO	Listening on 127.0.0.1:50333
+1533930062092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.67um2YeIrvbI"
+
+(firefox:15629): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533930062884	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:15678): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533930066240	Marionette	INFO	Listening on port 39871
+1533930066305	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533945544708	geckodriver	INFO	geckodriver 0.21.0
+1533945544713	geckodriver	INFO	Listening on 127.0.0.1:34439
+1533945545710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EPLKfoJXR1ho"
+
+(firefox:3131): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533945549116	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:3179): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533945552495	Marionette	INFO	Listening on port 35001
+1533945552542	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533946350855	geckodriver	INFO	geckodriver 0.21.0
+1533946350860	geckodriver	INFO	Listening on 127.0.0.1:42801
+1533946351868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s0TXmc53jEI4"
+
+(firefox:3615): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533946352626	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:3664): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533946355632	Marionette	INFO	Listening on port 40609
+1533946355687	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533946374031	geckodriver	INFO	geckodriver 0.21.0
+1533946374037	geckodriver	INFO	Listening on 127.0.0.1:51987
+1533946375044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nCaLoWpasyiu"
+
+(firefox:3780): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533946375801	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:3830): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533946378638	Marionette	INFO	Listening on port 41181
+1533946378661	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533947854118	geckodriver	INFO	geckodriver 0.21.0
+1533947854123	geckodriver	INFO	Listening on 127.0.0.1:45597
+1533947855141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nd9Id2kKeF7a"
+
+(firefox:4095): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533947856342	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:4145): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533947859363	Marionette	INFO	Listening on port 35015
+1533947859377	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533947977764	geckodriver	INFO	geckodriver 0.21.0
+1533947977769	geckodriver	INFO	Listening on 127.0.0.1:41929
+1533947978779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NnMDObGuHEdw"
+
+(firefox:4339): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533947979718	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:4386): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533947982597	Marionette	INFO	Listening on port 43107
+1533947982702	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533950053352	geckodriver	INFO	geckodriver 0.21.0
+1533950053357	geckodriver	INFO	Listening on 127.0.0.1:36299
+1533950054368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vZOrT5mWcgku"
+
+(firefox:5110): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533950055207	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:5158): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533950058231	Marionette	INFO	Listening on port 34289
+1533950058285	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1533950198751	geckodriver	INFO	geckodriver 0.21.0
+1533950198757	geckodriver	INFO	Listening on 127.0.0.1:54487
+1533950199758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4GAZbwwiBz80"
+
+(firefox:5314): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533950200519	Marionette	INFO	Enabled via --marionette
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+
+(/usr/lib/firefox/firefox:5362): Gtk-WARNING **: Theme parsing error: gtk.css:3601:22: 'none' is not a valid color name
+1533950203778	Marionette	INFO	Listening on port 34881
+1533950203870	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
